@@ -1,5 +1,3 @@
-# Data_science_project
-
 ## Setup
 
 Check in crud.py for the required database, tables and user info for this project
